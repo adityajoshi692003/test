@@ -1,5 +1,0 @@
-{{#user} 
-Name: Aditya Joshi 
-Skills:HTML, CSS, JS, Bootstrap, Python, MySQL, Figma 
-Email: adijoshi693@gmail.com 
-{{/user}} 
